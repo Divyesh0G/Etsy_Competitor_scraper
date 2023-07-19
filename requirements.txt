@@ -1,7 +1,0 @@
-beautifulsoup4==4.9.3
-lxml==4.6.2
-numpy==1.20.1
-pandas==1.2.2
-pyparsing==2.4.7
-requests==2.25.1
-
